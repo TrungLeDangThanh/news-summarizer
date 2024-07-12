@@ -13,3 +13,21 @@
 2024-07-12 18:08:24,367 - INFO - Response received successfully
 2024-07-12 18:09:28,046 - INFO - Response received successfully
 2024-07-12 18:09:48,003 - INFO - Response received successfully
+2024-07-12 21:36:42,085 - INFO - Response received successfully
+2024-07-12 21:37:31,157 - ERROR - Error occurred during API request: HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=Health&apiKey=1f115ca81365428694b4bd54b031775d&pageSize=5 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000024544F1A5A0>, 'Connection to newsapi.org timed out. (connect timeout=0.01)'))
+2024-07-12 21:37:40,927 - ERROR - Error occurred during API request: HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/everything?q=Health&apiKey=1f115ca81365428694b4bd54b031775d&pageSize=5 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000017C0E57A5A0>, 'Connection to newsapi.org timed out. (connect timeout=0.01)'))
+2024-07-12 21:37:52,933 - ERROR - Error occurred during API request: HTTPSConnectionPool(host='newsapi.org', port=443): Read timed out. (read timeout=0.1)
+2024-07-12 21:38:00,382 - ERROR - Error occurred during API request: HTTPSConnectionPool(host='newsapi.org', port=443): Read timed out. (read timeout=0.1)
+2024-07-12 21:38:11,752 - ERROR - Error occurred during API request: HTTPSConnectionPool(host='newsapi.org', port=443): Read timed out. (read timeout=0.5)
+2024-07-12 21:38:19,624 - ERROR - Error occurred during API request: HTTPSConnectionPool(host='newsapi.org', port=443): Read timed out. (read timeout=0.5)
+2024-07-12 21:38:30,305 - INFO - Response received successfully
+2024-07-12 21:38:38,776 - ERROR - Error occurred during API request: HTTPSConnectionPool(host='newsapi.org', port=443): Read timed out. (read timeout=1)
+2024-07-12 21:41:19,102 - INFO - Response received successfully
+2024-07-12 21:41:27,461 - INFO - Response received successfully
+2024-07-12 21:41:46,538 - INFO - Response received successfully
+2024-07-12 21:42:14,352 - INFO - Response received successfully
+2024-07-12 21:42:28,151 - INFO - Response received successfully
+2024-07-12 21:42:48,767 - INFO - Response received successfully
+2024-07-12 21:43:02,617 - INFO - Response received successfully
+2024-07-12 21:43:13,554 - INFO - Response received successfully
+2024-07-12 21:43:23,827 - INFO - Response received successfully
